@@ -1,4 +1,4 @@
-books = int(input("How many books have you puchased in the last year?: "))
+books = int(input("How many books have you puchased in the last month?: "))
 
 if books >= 8:
     print("You have received 60 points")
